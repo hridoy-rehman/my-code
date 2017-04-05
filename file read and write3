@@ -1,0 +1,21 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    freopen("input.txt","r",stdin);
+    freopen("input.txt","w",stdout);
+    int n , sum = 0;
+
+    cin >> n;
+    for(int i=1;i<=n;i++)
+    {
+        int a;
+        cin >> a;
+        sum+=a;
+    }
+    cout << "Sum is = " << sum << endl;
+
+    return 0;
+}
