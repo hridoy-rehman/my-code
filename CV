@@ -1,0 +1,48 @@
+<html>
+<body><title> My Resume! </title></head>
+ <body bgcolor="red">
+  <table border="1" width="100%" height="100%"> <th>
+ <table bgcolor="green" border="1" align="center" width="60%">
+ <tr>
+ <th bgcolor="yellow"> <h1>Welcome to My Resume! </h1></th></tr>
+ <tr> <th align="left"> <h2> Md Rahnatul Islam </h2>
+ <img src="" align="right" height="50" width="50" Border="1"/>
+ <b> Owner At: Moto Riders Club </b> <br><br>
+ Mobile No: +8801789894026 <br><br>
+ Email Address: rahnatulislam39@gmail.com<br><br>
+ <h2> Personal Information: </h2>
+ <ul>
+	<li> Father's Name: Md Anwar Hossain</li>
+	<li> Mother's Name: Mrs Razia Sultana</li>
+	<li> Religion: Islam</li>
+	<li> Date Of Birth : 23/06/1993</li>
+	<li> Nationality: Bangladeshi</li>
+	<li> Marital Satus: Unmarried</li> </ul>
+ <h2> Qualification: </h2>
+ <table border="1" cellpadding="20%" cellspacing="40"> <tr bgcolor="yellow"> 
+	<th> <b>Examination</b></th> <th><b> Division </b></th> <th> <b>Board/University</b></th> <th> <b>Passing Year</b></th></tr>
+	<tr> <td> <b>SSC (Science)</td></b> <td><b>4.63</b></td> <td><b>Dhaka Board</b></td> <td><b>2010</b></td>
+	<tr> <td> <b>HSC (Science)</b></td> <td><b>4.10</b></td> <td><b>Dhaka Board</b></td> <td><b>2014</b></td>
+	<tr> <td> <b>BSc (Computer Science)</b></td> <td><b>Null</b></td> <td><b>Southeast University</b></td> <td><b>Still Studing</b></td>
+ </table>
+ <h2> Personal Certificates & Skills: </h2>
+ <ul>
+	<li> MS Word, Excel, Power Point </li>
+	<li> Programming language C, C++, MySql, HTML, CSS, JavaScript </li>
+	<li> Internet Marketin, Video Editing</li>
+	<li> Bike Racing (Moto Riders Club) </li></ul>
+ <h2> Experience: </h2>
+ <ul>
+	<li> Web page making for a industry ( AKS Group ) </li>
+ </ul>
+ <h2> Language: </h2>
+ <ul>
+	<li> Bangla </li>
+	<li> English </li>
+	<li> Hindi </li>
+</ul>
+ </th>
+ </tr>
+ </table>
+ </body>
+ </html>
